@@ -1,1 +1,3 @@
-# highlight
+# Highlight
+
+What I wanted with this project is to assist me while I'm studying on my computer. I came up with an idea of some overlay application that would coverup the whole screen and whatever reading material I'm studying, enabling me to highlight stuff and mark annotations. Also, I was expecting the application to analyze texts on the window below, thus assissting the highlighting process. I wanted all the mouse funtions of scrolling to work as if there was no application above the reading material. Also, I wanted to store these annotational data along with the reading material in some pictorial form. May be, creating multiple snapshots of the screen for different sections.
