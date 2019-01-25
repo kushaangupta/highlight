@@ -27,7 +27,7 @@ class App:
 		Label(mainMenu, text=' ', padx=root.winfo_screenwidth()/6).pack(side='left')
 
 		Label(mainMenu, text='Tool: ').pack(side='left')
-		setToolHL = Button(mainMenu, text='Highlighter', command=self.setToolHL, bg='#000', fg='#fff', borderwidth=0, relief='groove').pack(side='left')
+		setToolHL = Button(mainMenu, text='Highlighter', command=self.setToolHL, bg='#000', fg='#fff', borderwidth=0, relief='raised').pack(side='left')
 		setToolLine = Button(mainMenu, text='Line', command=self.setToolL, bg='#000', fg='#fff', borderwidth=0, relief='raised').pack(side='left')
 		setToolLine = Button(mainMenu, text='Rectangle', command=self.setToolR, bg='#000', fg='#fff', borderwidth=0, relief='raised').pack(side='left')
 
